@@ -1,0 +1,17 @@
+
+body{
+    text-align: center !important;
+    background-color: green;
+}
+h1{
+    margin-bottom: 100px !important;
+}
+#atividades img{
+    width: 500px !important;
+}
+#imgquadra{
+    width:600px !important;
+}
+#imginfantil{
+    width:600px !important;
+}
